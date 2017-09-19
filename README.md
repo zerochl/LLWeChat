@@ -1,3 +1,4 @@
+# http://www.code4app.com/thread-11846-1-1.html
 # LLWeChat 1.0
 **本README包含18张效果图，约36M大小，载入时间较长，请耐心等待**
 
